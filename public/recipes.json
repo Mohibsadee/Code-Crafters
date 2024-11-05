@@ -1,0 +1,97 @@
+[
+    {
+        "recipe_id": 1,
+        "recipe_name": "Spaghetti Bolognese",
+        "short_description": "A classic Italian pasta dish made with ground beef and tomatoes.",
+        "ingredients": [
+            "400 g spaghetti",
+            "300 g ground beef",
+            "2 cans of diced tomatoes",
+            "1 onion, chopped",
+            "2 cloves garlic, minced",
+            "50 g grated Parmesan cheese"
+        ],
+        "preparing_time": "30 min",
+        "calories": "600 calories",
+        "recipe_image": "https://images.unsplash.com/photo-1673442635965-34f1b36d8944?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "recipe_id": 2,
+        "recipe_name": "Chicken Curry",
+        "short_description": "A flavorful curry made with chicken and a blend of spices.",
+        "ingredients": [
+            "500 g chicken breast, cubed",
+            "200 g coconut milk",
+            "2 tablespoons curry powder",
+            "1 onion, sliced",
+            "1 red bell pepper, chopped",
+            "200 g spinach"
+        ],
+        "preparing_time": "40 min",
+        "calories": "450 calories",
+        "recipe_image": "https://plus.unsplash.com/premium_photo-1723708871094-2c02cf5f5394?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "recipe_id": 3,
+        "recipe_name": "Vegetable Stir-Fry",
+        "short_description": "A quick and healthy stir-fry with seasonal vegetables.",
+        "ingredients": [
+            "200 g broccoli, chopped",
+            "150 g bell peppers, sliced",
+            "100 g carrots, julienned",
+            "2 tablespoons soy sauce",
+            "2 cloves garlic, minced",
+            "1 tablespoon olive oil"
+        ],
+        "preparing_time": "20 min",
+        "calories": "300 calories",
+        "recipe_image": "https://images.unsplash.com/photo-1543826173-70651703c5a4?q=80&w=2079&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "recipe_id": 4,
+        "recipe_name": "Beef Tacos",
+        "short_description": "Delicious tacos filled with seasoned ground beef.",
+        "ingredients": [
+            "400 g ground beef",
+            "8 taco shells",
+            "100 g shredded lettuce",
+            "100 g diced tomatoes",
+            "50 g shredded cheese",
+            "Sour cream for serving"
+        ],
+        "preparing_time": "25 min",
+        "calories": "500 calories",
+        "recipe_image": "https://images.unsplash.com/photo-1611699363898-66fabe471e3c?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "recipe_id": 5,
+        "recipe_name": "Pancakes",
+        "short_description": "Fluffy pancakes served with maple syrup.",
+        "ingredients": [
+            "200 g all-purpose flour",
+            "300 ml milk",
+            "2 eggs",
+            "50 g sugar",
+            "1 tablespoon baking powder",
+            "Butter for cooking"
+        ],
+        "preparing_time": "15 min",
+        "calories": "350 calories",
+        "recipe_image": "https://images.unsplash.com/photo-1528198622811-0842b4e50787?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "recipe_id": 6,
+        "recipe_name": "Caesar Salad",
+        "short_description": "A fresh salad with romaine lettuce and Caesar dressing.",
+        "ingredients": [
+            "200 g romaine lettuce, chopped",
+            "50 g Caesar dressing",
+            "30 g croutons",
+            "20 g grated Parmesan cheese",
+            "1 clove garlic, minced"
+        ],
+        "preparing_time": "10 min",
+        "calories": "250 calories",
+        "recipe_image": "https://images.unsplash.com/photo-1670237735381-ac5c7fa72c51?q=80&w=2006&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    }
+]

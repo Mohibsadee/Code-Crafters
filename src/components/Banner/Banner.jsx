@@ -2,7 +2,7 @@ import chefImage from '../../assets/images/chef.jpg';
 
 const Banner = () => {
     return (
-        <div className="relative h-screen bg-cover rounded-2xl bg-center" 
+        <div className="relative h-screen  bg-cover rounded-2xl bg-center" 
             style={{
                 backgroundImage: `url(${chefImage})`,
             }}>
